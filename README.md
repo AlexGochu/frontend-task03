@@ -33,3 +33,7 @@ and use the url: `http://localhost:8080/movies` to request the movie list.
 The server API is built on top of the https://github.com/typicode/json-server library. This library offers many features like filtering, sorting and paging.
 
 Good luck!
+
+After start server execution enter to app-fe folder and in this folder run 
+
+    yarn start (too)
